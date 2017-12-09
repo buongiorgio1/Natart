@@ -193,3 +193,42 @@ header {
 		font-size: 11px
 	}
 }
+#ContactContent {
+	font-family: Arial, Helvetica, sans-serif;
+	/*font-size: xx-large;*/
+	font-weight: bold;
+	color: #fff;
+	background-color: #E3F0FB;
+	border-radius: 4px;
+	padding: 10px;
+	text-align: center;
+	background-image: url("http://www.trbimg.com/img-5660b268/turbine/ct-best-places-to-travel-in-2016-20151202");
+	max-width: 1290px;
+	margin:auto;
+	position: relative;
+	top: 1px;
+}
+#ContactContent a:link {
+	text-decoration: none;
+	color: #0ff;
+
+	
+}
+#copyright {
+	text-decoration: none;
+	padding-top: 50px;
+	text-align: center;
+}
+
+#copyright a:link{
+	text-decoration: none;
+
+}
+#credits {
+	text-decoration: none;
+	/*padding: 10px;*/
+	text-align: center;
+}
+#credits a:link{
+	text-decoration: none;
+}
